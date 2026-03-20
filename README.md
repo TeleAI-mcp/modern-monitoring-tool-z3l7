@@ -1,2 +1,3 @@
-# modern-monitoring-tool-z3l7
-Automated issue comment bot repository
+# Modern Monitoring Tool Z3L7
+
+Automated issue comment bot repository.
